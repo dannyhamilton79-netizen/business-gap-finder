@@ -1,0 +1,7 @@
+{
+  "name": "Business Gap Finder",
+  "description": "An app to help entrepreneurs find and plan their next business venture, tailored to their city and budget. It includes a business matching quiz, a toolkit for planning, branding, and financing, and community features.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
